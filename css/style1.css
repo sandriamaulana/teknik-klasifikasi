@@ -1,0 +1,28 @@
+body{
+	background: url(../gambar/baground.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding-top: 3vh;
+	
+	}
+	
+form{
+	background: #fff;
+	
+}
+.form-container{
+	border-radius:10px;
+	padding:30px;
+	box-shadow:0px 0px 10px 0px;
+	background: #fff;
+	
+}
+.tengah{
+	
+  padding: 18%;
+  text-align: center;
+  vertical-align: middle;
+
+}
